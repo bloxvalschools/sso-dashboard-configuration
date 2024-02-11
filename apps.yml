@@ -59,3 +59,14 @@ apps:
     url: https://canvas.bloxvalschools.xyz/login/openid_connect/8
     vanity_url:
     - /canvas
+- application:
+    authorized_groups: 
+    - everyone
+    authorized_users: []
+    display: true
+    logo: cf-access.png
+    name: Cloudflare Access
+    op: auth0
+    url: https://bloxvalschools.cloudflareaccess.com
+    vanity_url:
+    - /cfaccess
