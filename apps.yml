@@ -52,7 +52,6 @@ apps:
     authorized_groups: []
     authorized_users: []
     display: true
-    client_id: SvKfyJ8YHK0btIjWSSulFAeKpqS8tPGr
     logo: canvas.png
     name: Canvas
     op: auth0
