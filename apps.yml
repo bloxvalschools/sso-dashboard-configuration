@@ -49,14 +49,13 @@
 
 apps:
 - application:
-    authorized_groups:
-    - sms_team
+    authorized_groups: []
     authorized_users: []
     display: true
     client_id: SvKfyJ8YHK0btIjWSSulFAeKpqS8tPGr
-    logo: accountmanager.png
-    name: Account Portal
+    logo: canvas.png
+    name: Canvas
     op: auth0
-    url: https://login.mozilla.com/
+    url: https://canvas.bloxvalschools.xyz/login/openid_connect/8
     vanity_url:
-    - /accountmanager
+    - /canvas
