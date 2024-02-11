@@ -50,19 +50,7 @@
 apps:
 - application:
     authorized_groups:
-    - mozilliansorg_netlify-access
-    authorized_users: []
-    client_id: hj3jYIhcrgvPWTpnFoHWLPx57t6KKqhA
-    display: true
-    logo: netlify.png
-    name: Netlify
-    op: auth0
-    url: https://api.netlify.com/saml/mozilla-it/init
-    vanity_url:
-    - /netlify
-- application:
-    authorized_groups:
-    - test
+    - sms_team
     authorized_users: []
     display: true
     client_id: SvKfyJ8YHK0btIjWSSulFAeKpqS8tPGr
