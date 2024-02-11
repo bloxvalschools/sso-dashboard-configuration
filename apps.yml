@@ -62,12 +62,10 @@ apps:
     - /netlify
 - application:
     authorized_groups:
-    - team_moco
-    - team_mofo
-    - team_mzla
-    - sms_team
+    - test
     authorized_users: []
     display: true
+    client_id: SvKfyJ8YHK0btIjWSSulFAeKpqS8tPGr
     logo: accountmanager.png
     name: Account Portal
     op: auth0
