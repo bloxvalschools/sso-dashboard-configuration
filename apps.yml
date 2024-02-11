@@ -65,6 +65,7 @@ apps:
     - team_moco
     - team_mofo
     - team_mzla
+    - Domain Admins
     authorized_users: []
     display: true
     logo: accountmanager.png
